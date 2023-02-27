@@ -38,6 +38,7 @@ Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+
 ![](https://activity-graph.herokuapp.com/graph?username=NaveenNatarajanDeveloper&theme=react-dark&area=true)
 <!--
 **NaveenNatarajanDeveloper/NaveenNatarajanDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
