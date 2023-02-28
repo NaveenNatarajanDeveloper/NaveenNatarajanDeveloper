@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Naveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-natarajan/)](https://www.linkedin.com/in/naveen-natarajan/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Naveen-yellow)](https://stackoverflow.com/users/21166424/naveen-natarajan)
+[![Website Badge](https://img.shields.io/badge/WebSite-Naveen-green)](https://naveennatarajandeveloper.github.io/MyProfileSite/)
 
 I'm
 Full Stack Developer.
